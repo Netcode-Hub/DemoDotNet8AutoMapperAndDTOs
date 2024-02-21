@@ -1,0 +1,6 @@
+@DemoDotNet8AutoMapperAndDTOs_HostAddress = http://localhost:5075
+
+GET {{DemoDotNet8AutoMapperAndDTOs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
